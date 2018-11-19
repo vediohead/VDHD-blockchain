@@ -1,13 +1,11 @@
-*.tar
-*.tar.*
-*.jar
-*.exe
-*.msi
-*.zip
-*.tgz
+# logging files
+#
 *.log
-*.log.*
-*.sig
 
-pkg/
-src/
+# os generated files
+#
+.DS_Store
+._*
+.Trashes
+ehthumbs.db
+Thumbs.db
